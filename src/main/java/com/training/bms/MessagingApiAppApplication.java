@@ -14,6 +14,8 @@ public class MessagingApiAppApplication {
 		SpringApplication.run(MessagingApiAppApplication.class, args);
 		
 		System.out.println(printGreetings());
+		
+		System.out.println("Hello World");
 				
 	}
 
